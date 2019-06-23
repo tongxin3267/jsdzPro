@@ -1,0 +1,560 @@
+【2019-05-14 12:22:00】
+订单号：20190514122147984810
+通知地址：http://www.33wy30.cn/Pay_Test_notify.html
+通知报文：memberid=10142&orderid=CS20190514122137486983&transaction_id=20190514122147984810&amount=1.0000&datetime=20190514122200&returncode=00&sign=594E0C4EF871D3EF26567EACCBEF0A67&attach=
+HTTP状态：
+返回：ok
+
+【2019-05-14 12:32:25】
+订单号：20190514123152564910
+通知地址：http://www.33wy30.cn/Pay_Test_notify.html
+通知报文：memberid=10142&orderid=CS20190514123147248161&transaction_id=20190514123152564910&amount=1.0000&datetime=20190514123225&returncode=00&sign=81F9EC3F77ED543E5C10A5F9A9B18893&attach=
+HTTP状态：
+返回：ok
+
+【2019-05-14 12:45:47】
+订单号：20190514124504485753
+通知地址：http://aid.legend-pay.com/Pay_XiaochouWxpay_notifyurl.html
+通知报文：memberid=10130&orderid=20190514124501100102&transaction_id=20190514124504485753&amount=500.0000&datetime=20190514124547&returncode=00&sign=26577DD2BB8D31F856893824E5C31EF9&attach=
+HTTP状态：
+返回：OK
+
+【2019-05-14 12:46:51】
+订单号：20190514124608485755
+通知地址：http://aid.legend-pay.com/Pay_XiaochouWxpay_notifyurl.html
+通知报文：memberid=10130&orderid=20190514124608485210&transaction_id=20190514124608485755&amount=1000.0000&datetime=20190514124650&returncode=00&sign=C364B7084B3E34CCB64F9773EEE5962E&attach=
+HTTP状态：
+返回：OK
+
+【2019-05-14 12:51:41】
+订单号：20190514125123985155
+通知地址：http://www.33wy30.cn/Pay_Test_notify.html
+通知报文：memberid=10103&orderid=CS20190514125118155984&transaction_id=20190514125123985155&amount=0.1000&datetime=20190514125141&returncode=00&sign=9898F850E61594C09651F78D73B26604&attach=
+HTTP状态：
+返回：ok
+
+【2019-05-14 12:52:12】
+订单号：20190514125118549750
+通知地址：http://aid.legend-pay.com/Pay_XiaochouWxpay_notifyurl.html
+通知报文：memberid=10130&orderid=20190514125118544954&transaction_id=20190514125118549750&amount=2000.0000&datetime=20190514125212&returncode=00&sign=76FB8805ED01869DA6596EBD4BEEAB61&attach=
+HTTP状态：
+返回：OK
+
+【2019-05-14 12:53:05】
+订单号：20190514125246101541
+通知地址：http://www.33wy30.cn/Pay_Test_notify.html
+通知报文：memberid=10131&orderid=CS20190514125227653066&transaction_id=20190514125246101541&amount=1.0000&datetime=20190514125305&returncode=00&sign=4C48FEA0C17A5BEDA02207CE4FFAA56D&attach=
+HTTP状态：
+返回：ok
+
+【2019-05-14 12:53:12】
+订单号：20190514125300995549
+通知地址：http://www.33wy30.cn/Pay_Test_notify.html
+通知报文：memberid=10142&orderid=CS20190514125256236728&transaction_id=20190514125300995549&amount=1.0000&datetime=20190514125312&returncode=00&sign=DAE21BCCD891009BE4CAA4121ADB3D35&attach=
+HTTP状态：
+返回：ok
+
+【2019-05-14 12:57:30】
+订单号：20190514125706501011
+通知地址：http://www.33wy30.cn/Pay_Test_notify.html
+通知报文：memberid=10103&orderid=CS20190514125703974451&transaction_id=20190514125706501011&amount=0.1000&datetime=20190514125730&returncode=00&sign=82F0A3E7AD6344B214CDDC04CA9AA988&attach=
+HTTP状态：
+返回：ok
+
+【2019-05-14 12:58:08】
+订单号：20190514125642975351
+通知地址：http://aid.legend-pay.com/Pay_XiaochouWxpay_notifyurl.html
+通知报文：memberid=10130&orderid=20190514125641571015&transaction_id=20190514125642975351&amount=1600.0000&datetime=20190514125808&returncode=00&sign=53CD52AEA9482BF107FAC7DF200282CD&attach=
+HTTP状态：
+返回：OK
+
+【2019-05-14 13:02:08】
+订单号：20190514130122501015
+通知地址：http://www.33wy30.cn/Pay_Test_notify.html
+通知报文：memberid=10131&orderid=CS20190514130113254748&transaction_id=20190514130122501015&amount=1.0000&datetime=20190514130208&returncode=00&sign=D75DD8874ADE537B7A2312F025396511&attach=
+HTTP状态：
+返回：ok
+
+【2019-05-14 13:08:52】
+订单号：20190514130804521025
+通知地址：http://aid.legend-pay.com/Pay_XiaochouWxpay_notifyurl.html
+通知报文：memberid=10130&orderid=20190514130804525799&transaction_id=20190514130804521025&amount=1000.0000&datetime=20190514130851&returncode=00&sign=3B2E9F4ECA627D1509E65EA6ACA722E4&attach=
+HTTP状态：
+返回：OK
+
+【2019-05-14 13:11:11】
+订单号：20190514131044524955
+通知地址：http://aid.legend-pay.com/Pay_XiaochouWxpay_notifyurl.html
+通知报文：memberid=10130&orderid=20190514131043519949&transaction_id=20190514131044524955&amount=1200.0000&datetime=20190514131111&returncode=00&sign=A345C48915EDD55F35F6E73A1751A8B8&attach=
+HTTP状态：
+返回：OK
+
+【2019-05-14 13:11:26】
+订单号：20190514131055102499
+通知地址：http://aid.legend-pay.com/Pay_XiaochouWxpay_notifyurl.html
+通知报文：memberid=10130&orderid=20190514131054101971&transaction_id=20190514131055102499&amount=4300.0000&datetime=20190514131125&returncode=00&sign=0378297F2D1842C901965274457C118C&attach=
+HTTP状态：
+返回：OK
+
+【2019-05-14 13:11:30】
+订单号：20190514131101535254
+通知地址：http://aid.legend-pay.com/Pay_XiaochouWxpay_notifyurl.html
+通知报文：memberid=10130&orderid=20190514131100521015&transaction_id=20190514131101535254&amount=1700.0000&datetime=20190514131130&returncode=00&sign=99E20E1DC785AC025C4767AF6C6EFA3B&attach=
+HTTP状态：
+返回：OK
+
+【2019-05-14 13:16:51】
+订单号：20190514131626979797
+通知地址：http://aid.legend-pay.com/Pay_XiaochouWxpay_notifyurl.html
+通知报文：memberid=10130&orderid=20190514131626975199&transaction_id=20190514131626979797&amount=500.0000&datetime=20190514131651&returncode=00&sign=86BF904EDF9D44C71B0CE1A7CB92E223&attach=
+HTTP状态：
+返回：OK
+
+【2019-05-14 13:18:28】
+订单号：20190514131727554950
+通知地址：http://aid.legend-pay.com/Pay_XiaochouWxpay_notifyurl.html
+通知报文：memberid=10130&orderid=20190514131726549750&transaction_id=20190514131727554950&amount=500.0000&datetime=20190514131828&returncode=00&sign=D611FDDC1DD948890047B7E9199E25F1&attach=
+HTTP状态：
+返回：OK
+
+【2019-05-14 13:20:52】
+订单号：20190514132026975553
+通知地址：http://aid.legend-pay.com/Pay_XiaochouWxpay_notifyurl.html
+通知报文：memberid=10130&orderid=20190514132025571015&transaction_id=20190514132026975553&amount=500.0000&datetime=20190514132052&returncode=00&sign=77D4D94ED085C904ECFE4A86F4EDDEE5&attach=
+HTTP状态：
+返回：OK
+
+【2019-05-14 13:21:43】
+订单号：20190514132113575510
+通知地址：http://aid.legend-pay.com/Pay_XiaochouWxpay_notifyurl.html
+通知报文：memberid=10130&orderid=20190514132113575197&transaction_id=20190514132113575510&amount=2000.0000&datetime=20190514132143&returncode=00&sign=8BD3441099ED2E4BFC772B5F3CA108CF&attach=
+HTTP状态：
+返回：OK
+
+【2019-05-14 13:23:26】
+订单号：20190514132236999949
+通知地址：http://aid.legend-pay.com/Pay_XiaochouWxpay_notifyurl.html
+通知报文：memberid=10130&orderid=20190514132236995210&transaction_id=20190514132236999949&amount=500.0000&datetime=20190514132325&returncode=00&sign=0D94391EE5317BF2BDE8750B5541CF1C&attach=
+HTTP状态：
+返回：OK
+
+【2019-05-14 13:24:43】
+订单号：20190514132301535098
+通知地址：http://aid.legend-pay.com/Pay_XiaochouWxpay_notifyurl.html
+通知报文：memberid=10130&orderid=20190514132259511014&transaction_id=20190514132301535098&amount=2000.0000&datetime=20190514132443&returncode=00&sign=5C47053DB3D3C2FE925F7A4BA49C4B43&attach=
+HTTP状态：
+返回：OK
+
+【2019-05-14 13:31:10】
+订单号：20190514133023102575
+通知地址：http://aid.legend-pay.com/Pay_XiaochouWxpay_notifyurl.html
+通知报文：memberid=10130&orderid=20190514133023102495&transaction_id=20190514133023102575&amount=1300.0000&datetime=20190514133109&returncode=00&sign=23B5D4D11E961283A31AE318792D0D6B&attach=
+HTTP状态：
+返回：OK
+
+【2019-05-14 13:31:15】
+订单号：20190514133047554853
+通知地址：http://aid.legend-pay.com/Pay_XiaochouWxpay_notifyurl.html
+通知报文：memberid=10130&orderid=20190514133046549897&transaction_id=20190514133047554853&amount=3000.0000&datetime=20190514133114&returncode=00&sign=CF1139A7D68B652865B17AC894CE1FF6&attach=
+HTTP状态：
+返回：OK
+
+【2019-05-14 13:36:35】
+订单号：20190514124903102575
+通知地址：http://aid.legend-pay.com/Pay_XiaochouWxpay_notifyurl.html
+通知报文：memberid=10130&orderid=20190514124902101101&transaction_id=20190514124903102575&amount=1500.0000&datetime=20190514133634&returncode=00&sign=9D3A2D6928804800341F8C7EF6390036&attach=
+HTTP状态：
+返回：OK
+
+【2019-05-14 13:40:58】
+订单号：20190514134017491015
+通知地址：http://aid.legend-pay.com/Pay_XiaochouWxpay_notifyurl.html
+通知报文：memberid=10130&orderid=20190514134017495549&transaction_id=20190514134017491015&amount=5000.0000&datetime=20190514134058&returncode=00&sign=3936B3DF11A1F2396D89F88DC40719E6&attach=
+HTTP状态：
+返回：OK
+
+【2019-05-14 13:44:10】
+订单号：20190514134312485410
+通知地址：http://aid.legend-pay.com/Pay_XiaochouWxpay_notifyurl.html
+通知报文：memberid=10130&orderid=20190514134312485057&transaction_id=20190514134312485410&amount=1650.0000&datetime=20190514134410&returncode=00&sign=5C3BC2686141C88CF2350152B4EAF872&attach=
+HTTP状态：
+返回：OK
+
+【2019-05-14 13:44:25】
+订单号：20190514134400484998
+通知地址：http://aid.legend-pay.com/Pay_XiaochouWxpay_notifyurl.html
+通知报文：memberid=10130&orderid=20190514134359102981&transaction_id=20190514134400484998&amount=500.0000&datetime=20190514134425&returncode=00&sign=333B11C2A8DED3B4D10A60CA3E290F81&attach=
+HTTP状态：
+返回：OK
+
+【2019-05-14 13:51:15】
+订单号：20190514135035985310
+通知地址：http://aid.legend-pay.com/Pay_XiaochouWxpay_notifyurl.html
+通知报文：memberid=10130&orderid=20190514135034975710&transaction_id=20190514135035985310&amount=500.0000&datetime=20190514135114&returncode=00&sign=4D226B4AD985109BD15C2F05F4F44B0B&attach=
+HTTP状态：
+返回：OK
+
+【2019-05-14 13:57:17】
+订单号：20190514135636524954
+通知地址：http://aid.legend-pay.com/Pay_XiaochouWxpay_notifyurl.html
+通知报文：memberid=10130&orderid=20190514135635519856&transaction_id=20190514135636524954&amount=500.0000&datetime=20190514135716&returncode=00&sign=8CA50BFCEF80D584FBA1B25D7A647F3C&attach=
+HTTP状态：
+返回：OK
+
+【2019-05-14 14:12:18】
+订单号：20190514141158101535
+通知地址：http://aid.legend-pay.com/Pay_XiaochouWxpay_notifyurl.html
+通知报文：memberid=10130&orderid=20190514141158101494&transaction_id=20190514141158101535&amount=300.0000&datetime=20190514141218&returncode=00&sign=A028FC917B453FD9EF8728B4C6274574&attach=
+HTTP状态：
+返回：OK
+
+【2019-05-14 14:13:01】
+订单号：20190514141217499855
+通知地址：http://aid.legend-pay.com/Pay_XiaochouWxpay_notifyurl.html
+通知报文：memberid=10130&orderid=20190514141217495210&transaction_id=20190514141217499855&amount=600.0000&datetime=20190514141301&returncode=00&sign=A06979C6CC6EBD3D9769B03409522D44&attach=
+HTTP状态：
+返回：OK
+
+【2019-05-14 14:14:42】
+订单号：20190514141410505255
+通知地址：http://aid.legend-pay.com/Pay_XiaochouWxpay_notifyurl.html
+通知报文：memberid=10130&orderid=20190514141409491014&transaction_id=20190514141410505255&amount=300.0000&datetime=20190514141442&returncode=00&sign=EE1AA891019B3FEB764FEA75F6D6D655&attach=
+HTTP状态：
+返回：OK
+
+【2019-05-14 14:15:06】
+订单号：20190514141438101551
+通知地址：http://aid.legend-pay.com/Pay_XiaochouWxpay_notifyurl.html
+通知报文：memberid=10130&orderid=20190514141437100102&transaction_id=20190514141438101551&amount=300.0000&datetime=20190514141506&returncode=00&sign=C145593A9E4219DD3725A06D736D51C8&attach=
+HTTP状态：
+返回：OK
+
+【2019-05-14 14:19:49】
+订单号：20190514141834979956
+通知地址：http://aid.legend-pay.com/Pay_XiaochouWxpay_notifyurl.html
+通知报文：memberid=10130&orderid=20190514141832565049&transaction_id=20190514141834979956&amount=300.0000&datetime=20190514141949&returncode=00&sign=5C97D5678D04BA852F2B6EFE4BE83BF9&attach=
+HTTP状态：
+返回：OK
+
+【2019-05-14 14:20:16】
+订单号：20190514141734101554
+通知地址：http://aid.legend-pay.com/Pay_XiaochouWxpay_notifyurl.html
+通知报文：memberid=10130&orderid=20190514141733100101&transaction_id=20190514141734101554&amount=1500.0000&datetime=20190514142015&returncode=00&sign=BBF46BD9877EA8629738DFB255CE8133&attach=
+HTTP状态：
+返回：OK
+
+【2019-05-14 14:20:16】
+订单号：20190514141734101554
+通知地址：http://aid.legend-pay.com/Pay_XiaochouWxpay_notifyurl.html
+通知报文：memberid=10130&orderid=20190514141733100101&transaction_id=20190514141734101554&amount=1500.0000&datetime=20190514142016&returncode=00&sign=42148CD10D14B294DFB34CAC59D7ADFD&attach=
+HTTP状态：
+返回：OK
+
+【2019-05-14 14:21:57】
+订单号：20190514142028995698
+通知地址：http://aid.legend-pay.com/Pay_XiaochouWxpay_notifyurl.html
+通知报文：memberid=10130&orderid=20190514142028995051&transaction_id=20190514142028995698&amount=2000.0000&datetime=20190514142156&returncode=00&sign=A27018CDAAA8E6AF291FD82C199AB849&attach=
+HTTP状态：
+返回：OK
+
+【2019-05-14 14:25:38】
+订单号：20190514142428995455
+通知地址：http://aid.legend-pay.com/Pay_XiaochouWxpay_notifyurl.html
+通知报文：memberid=10130&orderid=20190514142428995149&transaction_id=20190514142428995455&amount=2520.0000&datetime=20190514142537&returncode=00&sign=9B6569FFA5DB7FF7CC8FB47AF795F2E1&attach=
+HTTP状态：
+返回：OK
+
+【2019-05-14 14:28:45】
+订单号：20190514142818505751
+通知地址：http://aid.legend-pay.com/Pay_XiaochouWxpay_notifyurl.html
+通知报文：memberid=10130&orderid=20190514142818505453&transaction_id=20190514142818505751&amount=500.0000&datetime=20190514142844&returncode=00&sign=A9BCDA8E00EDE4594EB19A55C8C8E79E&attach=
+HTTP状态：
+返回：OK
+
+【2019-05-14 14:30:00】
+订单号：20190514142925539850
+通知地址：http://aid.legend-pay.com/Pay_XiaochouWxpay_notifyurl.html
+通知报文：memberid=10130&orderid=20190514142925535453&transaction_id=20190514142925539850&amount=500.0000&datetime=20190514143000&returncode=00&sign=1E3EA97B3D48910727DF40D7607DF149&attach=
+HTTP状态：
+返回：OK
+
+【2019-05-14 14:34:15】
+订单号：20190514143323514952
+通知地址：http://aid.legend-pay.com/Pay_XiaochouWxpay_notifyurl.html
+通知报文：memberid=10130&orderid=20190514143322509852&transaction_id=20190514143323514952&amount=300.0000&datetime=20190514143415&returncode=00&sign=38A0A2F4335356D0726099894D73ACC2&attach=
+HTTP状态：
+返回：OK
+
+【2019-05-14 14:35:12】
+订单号：20190514143434971009
+通知地址：http://aid.legend-pay.com/Pay_XiaochouWxpay_notifyurl.html
+通知报文：memberid=10130&orderid=20190514143434975548&transaction_id=20190514143434971009&amount=1000.0000&datetime=20190514143512&returncode=00&sign=9126E7D90FE34C4CE28A939E499B03D9&attach=
+HTTP状态：
+返回：OK
+
+【2019-05-14 14:40:08】
+订单号：20190514143941100505
+通知地址：http://aid.legend-pay.com/Pay_XiaochouWxpay_notifyurl.html
+通知报文：memberid=10130&orderid=20190514143940999951&transaction_id=20190514143941100505&amount=500.0000&datetime=20190514144006&returncode=00&sign=D114D564149EF6B383455C763B705707&attach=
+HTTP状态：
+返回：OK
+
+【2019-05-14 14:50:09】
+订单号：20190514144940525649
+通知地址：http://aid.legend-pay.com/Pay_XiaochouWxpay_notifyurl.html
+通知报文：memberid=10130&orderid=20190514144940525151&transaction_id=20190514144940525649&amount=2000.0000&datetime=20190514145007&returncode=00&sign=3C1A9218D95001A04F4C2CC5AAE6834E&attach=
+HTTP状态：
+返回：OK
+
+【2019-05-14 14:51:33】
+订单号：20190514145104561005
+通知地址：http://aid.legend-pay.com/Pay_XiaochouWxpay_notifyurl.html
+通知报文：memberid=10130&orderid=20190514145103554852&transaction_id=20190514145104561005&amount=1000.0000&datetime=20190514145130&returncode=00&sign=427B65E48AC0C7318D1859AA181CB140&attach=
+HTTP状态：
+返回：OK
+
+【2019-05-14 14:52:41】
+订单号：20190514145149539856
+通知地址：http://aid.legend-pay.com/Pay_XiaochouWxpay_notifyurl.html
+通知报文：memberid=10130&orderid=20190514145148525551&transaction_id=20190514145149539856&amount=500.0000&datetime=20190514145240&returncode=00&sign=CFEB62609007529802C8C614C3CAA936&attach=
+HTTP状态：
+返回：OK
+
+【2019-05-14 14:53:02】
+订单号：20190514145240565797
+通知地址：http://www.33wy30.cn/Pay_Test_notify.html
+通知报文：memberid=10131&orderid=CS20190514145235703513&transaction_id=20190514145240565797&amount=1.0000&datetime=20190514145302&returncode=00&sign=B7C18E7CCA9B5A77B67C015147FA4DF9&attach=
+HTTP状态：
+返回：ok
+
+【2019-05-14 15:06:41】
+订单号：20190514150612525351
+通知地址：http://aid.legend-pay.com/Pay_XiaochouWxpay_notifyurl.html
+通知报文：memberid=10130&orderid=20190514150612525051&transaction_id=20190514150612525351&amount=500.0000&datetime=20190514150639&returncode=00&sign=B189CFB63E7FDDBB6358F4DDC27F928A&attach=
+HTTP状态：
+返回：OK
+
+【2019-05-14 15:07:34】
+订单号：20190514150651984810
+通知地址：http://aid.legend-pay.com/Pay_XiaochouWxpay_notifyurl.html
+通知报文：memberid=10130&orderid=20190514150650975350&transaction_id=20190514150651984810&amount=500.0000&datetime=20190514150733&returncode=00&sign=5CCC50EDA97AC708E8C34CE6EDC91416&attach=
+HTTP状态：
+返回：OK
+
+【2019-05-14 15:11:15】
+订单号：20190514151042505350
+通知地址：http://aid.legend-pay.com/Pay_XiaochouWxpay_notifyurl.html
+通知报文：memberid=10130&orderid=20190514151042504955&transaction_id=20190514151042505350&amount=500.0000&datetime=20190514151115&returncode=00&sign=4387DDF61E9C2A3FAD986A474A86AD48&attach=
+HTTP状态：
+返回：OK
+
+【2019-05-14 15:12:21】
+订单号：20190514151148525552
+通知地址：http://www.33wy30.cn/Pay_Test_notify.html
+通知报文：memberid=10139&orderid=CS20190514151144619054&transaction_id=20190514151148525552&amount=0.1000&datetime=20190514151221&returncode=00&sign=D014F92459949CADB7B95096F396B4BD&attach=
+HTTP状态：
+返回：ok
+
+【2019-05-14 15:15:06】
+订单号：20190514151426501019
+通知地址：http://aid.legend-pay.com/Pay_XiaochouWxpay_notifyurl.html
+通知报文：memberid=10130&orderid=20190514151426505798&transaction_id=20190514151426501019&amount=500.0000&datetime=20190514151505&returncode=00&sign=0B268AEA398CAD35FB53891C4A57947B&attach=
+HTTP状态：
+返回：OK
+
+【2019-05-14 15:15:34】
+订单号：20190514151353499956
+通知地址：http://aid.legend-pay.com/Pay_XiaochouWxpay_notifyurl.html
+通知报文：memberid=10130&orderid=20190514151351102505&transaction_id=20190514151353499956&amount=500.0000&datetime=20190514151534&returncode=00&sign=3352BDCA41431FA9310B65CB8EEE95F7&attach=
+HTTP状态：
+返回：OK
+
+【2019-05-14 15:17:27】
+订单号：20190514151658979910
+通知地址：http://www.33wy30.cn/Pay_Test_notify.html
+通知报文：memberid=10127&orderid=CS20190514151651356059&transaction_id=20190514151658979910&amount=0.0100&datetime=20190514151727&returncode=00&sign=831A91E8EDF49EAF018409982FE7CBE0&attach=
+HTTP状态：
+返回：ok
+
+【2019-05-14 15:18:13】
+订单号：20190514151801575699
+通知地址：http://www.33wy30.cn/Pay_Test_notify.html
+通知报文：memberid=10127&orderid=CS20190514151755466100&transaction_id=20190514151801575699&amount=0.0100&datetime=20190514151813&returncode=00&sign=003108EBFA447E4769BE3D6D6252E1A4&attach=
+HTTP状态：
+返回：ok
+
+【2019-05-14 15:18:49】
+订单号：20190514151838101519
+通知地址：http://www.33wy30.cn/Pay_Test_notify.html
+通知报文：memberid=10127&orderid=CS20190514151834263095&transaction_id=20190514151838101519&amount=0.0100&datetime=20190514151849&returncode=00&sign=62F9C04422D55B73C954F3FBE8CE22A7&attach=
+HTTP状态：
+返回：ok
+
+【2019-05-14 15:23:26】
+订单号：20190514152257499710
+通知地址：http://aid.legend-pay.com/Pay_XiaochouWxpay_notifyurl.html
+通知报文：memberid=10130&orderid=20190514152256489810&transaction_id=20190514152257499710&amount=800.0000&datetime=20190514152325&returncode=00&sign=B7ECEEF30AA72389069558B6F75653B8&attach=
+HTTP状态：
+返回：OK
+
+【2019-05-14 15:25:57】
+订单号：20190514152542545354
+通知地址：http://www.33wy30.cn/Pay_Test_notify.html
+通知报文：memberid=10139&orderid=CS20190514152538218770&transaction_id=20190514152542545354&amount=0.1000&datetime=20190514152557&returncode=00&sign=5A66D7F3A756DB4A714B56BB2D97DEAD&attach=
+HTTP状态：
+返回：ok
+
+【2019-05-14 15:27:06】
+订单号：20190514152652995352
+通知地址：http://www.33wy30.cn/Pay_Test_notify.html
+通知报文：memberid=10139&orderid=CS20190514152647576437&transaction_id=20190514152652995352&amount=0.1000&datetime=20190514152706&returncode=00&sign=FB3B5A0A2FA18CFA5F9DD874CADB1E3F&attach=
+HTTP状态：
+返回：ok
+
+【2019-05-14 15:31:13】
+订单号：20190514153058509710
+通知地址：http://www.33wy30.cn/Pay_Test_notify.html
+通知报文：memberid=10127&orderid=CS20190514153052706921&transaction_id=20190514153058509710&amount=0.0100&datetime=20190514153113&returncode=00&sign=611FF02363AAA23F89C82F4BD9B0F4BB&attach=
+HTTP状态：
+返回：ok
+
+【2019-05-14 15:31:27】
+订单号：20190514153055102571
+通知地址：http://aid.legend-pay.com/Pay_XiaochouWxpay_notifyurl.html
+通知报文：memberid=10130&orderid=20190514153055102509&transaction_id=20190514153055102571&amount=200.0000&datetime=20190514153125&returncode=00&sign=FA5B65FEEF0BE94AAA477C6060DCD6BE&attach=
+HTTP状态：
+返回：OK
+
+【2019-05-14 15:31:56】
+订单号：20190514153146504898
+通知地址：http://www.33wy30.cn/Pay_Test_notify.html
+通知报文：memberid=10127&orderid=CS20190514153139228174&transaction_id=20190514153146504898&amount=0.0100&datetime=20190514153156&returncode=00&sign=89CB1FA58DAFED35C47E49B56DE1C07A&attach=
+HTTP状态：
+返回：ok
+
+【2019-05-14 15:32:09】
+订单号：20190514153141100554
+通知地址：http://aid.legend-pay.com/Pay_XiaochouWxpay_notifyurl.html
+通知报文：memberid=10130&orderid=20190514153140999998&transaction_id=20190514153141100554&amount=200.0000&datetime=20190514153208&returncode=00&sign=A52BF945D92B2617BB994EDFA34CFC12&attach=
+HTTP状态：
+返回：OK
+
+【2019-05-14 15:32:37】
+订单号：20190514153221539949
+通知地址：http://www.33wy30.cn/Pay_Test_notify.html
+通知报文：memberid=10127&orderid=CS20190514153215297282&transaction_id=20190514153221539949&amount=0.0100&datetime=20190514153237&returncode=00&sign=7D541A0356E96E0C59864194D8153F0D&attach=
+HTTP状态：
+返回：ok
+
+【2019-05-14 15:33:12】
+订单号：20190514153300995155
+通知地址：http://www.33wy30.cn/Pay_Test_notify.html
+通知报文：memberid=10127&orderid=CS20190514153255746375&transaction_id=20190514153300995155&amount=0.0100&datetime=20190514153312&returncode=00&sign=EED46ABF8456148300FE800169CFE055&attach=
+HTTP状态：
+返回：ok
+
+【2019-05-14 15:33:26】
+订单号：20190514153156995599
+通知地址：http://aid.legend-pay.com/Pay_XiaochouWxpay_notifyurl.html
+通知报文：memberid=10130&orderid=20190514153155981015&transaction_id=20190514153156995599&amount=100.0000&datetime=20190514153325&returncode=00&sign=632C1DCE35223FB77A8DF21D88CBAA33&attach=
+HTTP状态：
+返回：OK
+
+【2019-05-14 15:33:27】
+订单号：20190514153156995599
+通知地址：http://aid.legend-pay.com/Pay_XiaochouWxpay_notifyurl.html
+通知报文：memberid=10130&orderid=20190514153155981015&transaction_id=20190514153156995599&amount=100.0000&datetime=20190514153326&returncode=00&sign=9D7CCC4F32FFB7C195C220E25DC7C08B&attach=
+HTTP状态：
+返回：OK
+
+【2019-05-14 15:34:28】
+订单号：20190514153359559810
+通知地址：http://aid.legend-pay.com/Pay_XiaochouWxpay_notifyurl.html
+通知报文：memberid=10130&orderid=20190514153359555310&transaction_id=20190514153359559810&amount=200.0000&datetime=20190514153427&returncode=00&sign=30738BE6696E298D1B4264F1F55A1BE5&attach=
+HTTP状态：
+返回：OK
+
+【2019-05-14 15:35:19】
+订单号：20190514153435985753
+通知地址：http://aid.legend-pay.com/Pay_XiaochouWxpay_notifyurl.html
+通知报文：memberid=10130&orderid=20190514153432565499&transaction_id=20190514153435985753&amount=200.0000&datetime=20190514153518&returncode=00&sign=CBA825ABA398E2238CF3F6843240ADD4&attach=
+HTTP状态：
+返回：OK
+
+【2019-05-14 15:35:42】
+订单号：20190514153526101985
+通知地址：http://aid.legend-pay.com/Pay_XiaochouWxpay_notifyurl.html
+通知报文：memberid=10130&orderid=20190514153526101524&transaction_id=20190514153526101985&amount=500.0000&datetime=20190514153542&returncode=00&sign=6085501E840CE98282571824B4FB65D9&attach=
+HTTP状态：
+返回：OK
+
+【2019-05-14 15:37:56】
+订单号：20190514153727559810
+通知地址：http://aid.legend-pay.com/Pay_XiaochouWxpay_notifyurl.html
+通知报文：memberid=10130&orderid=20190514153727555098&transaction_id=20190514153727559810&amount=100.0000&datetime=20190514153755&returncode=00&sign=605F971E526FCF59AE50F5B35C3C361B&attach=
+HTTP状态：
+返回：OK
+
+【2019-05-14 15:37:57】
+订单号：20190514153741531019
+通知地址：http://www.33wy30.cn/Pay_Test_notify.html
+通知报文：memberid=10127&orderid=CS20190514153736766813&transaction_id=20190514153741531019&amount=0.0100&datetime=20190514153757&returncode=00&sign=7C43DEFA887D859BC5239DA366D37291&attach=
+HTTP状态：
+返回：ok
+
+【2019-05-14 15:38:07】
+订单号：20190514153751102545
+通知地址：http://aid.legend-pay.com/Pay_XiaochouWxpay_notifyurl.html
+通知报文：memberid=10130&orderid=20190514153750101101&transaction_id=20190514153751102545&amount=100.0000&datetime=20190514153806&returncode=00&sign=27A885F25D706F7F08C0D457ACD86CF8&attach=
+HTTP状态：
+返回：OK
+
+【2019-05-14 15:38:25】
+订单号：20190514153730979850
+通知地址：http://aid.legend-pay.com/Pay_XiaochouWxpay_notifyurl.html
+通知报文：memberid=10130&orderid=20190514153730975057&transaction_id=20190514153730979850&amount=3000.0000&datetime=20190514153824&returncode=00&sign=3B2C44C4DE88F6EF38FF7B4407137519&attach=
+HTTP状态：
+返回：OK
+
+【2019-05-14 15:38:26】
+订单号：20190514153332995097
+通知地址：http://www.33wy30.cn/Pay_Test_notify.html
+通知报文：memberid=10127&orderid=CS20190514153325166407&transaction_id=20190514153332995097&amount=0.0100&datetime=20190514153826&returncode=00&sign=D91638316E01D81E2DB03330CB6030C4&attach=
+HTTP状态：
+返回：ok
+
+【2019-05-14 15:38:49】
+订单号：20190514153411514949
+通知地址：http://aid.legend-pay.com/Pay_XiaochouWxpay_notifyurl.html
+通知报文：memberid=10130&orderid=20190514153410509749&transaction_id=20190514153411514949&amount=300.0000&datetime=20190514153848&returncode=00&sign=85B3E51C5CA424884E30CF190D702E6C&attach=
+HTTP状态：
+返回：OK
+
+【2019-05-14 15:38:55】
+订单号：20190514153818975199
+通知地址：http://aid.legend-pay.com/Pay_XiaochouWxpay_notifyurl.html
+通知报文：memberid=10130&orderid=20190514153817579798&transaction_id=20190514153818975199&amount=200.0000&datetime=20190514153854&returncode=00&sign=E71BAF0B794AB1212F00A49ED78C783B&attach=
+HTTP状态：
+返回：OK
+
+【2019-05-14 15:39:31】
+订单号：20190514153907985398
+通知地址：http://aid.legend-pay.com/Pay_XiaochouWxpay_notifyurl.html
+通知报文：memberid=10130&orderid=20190514153906971005&transaction_id=20190514153907985398&amount=200.0000&datetime=20190514153930&returncode=00&sign=1AACC0C41D95520D60B75D8AE0AEDAC8&attach=
+HTTP状态：
+返回：OK
+
+【2019-05-14 15:39:39】
+订单号：20190514153825495648
+通知地址：http://aid.legend-pay.com/Pay_XiaochouWxpay_notifyurl.html
+通知报文：memberid=10130&orderid=20190514153824489851&transaction_id=20190514153825495648&amount=800.0000&datetime=20190514153938&returncode=00&sign=6AD796DB4C258E4275C9B1399678B0DE&attach=
+HTTP状态：
+返回：OK
+
+【2019-05-14 15:39:51】
+订单号：20190514153900524997
+通知地址：http://aid.legend-pay.com/Pay_XiaochouWxpay_notifyurl.html
+通知报文：memberid=10130&orderid=20190514153859515748&transaction_id=20190514153900524997&amount=100.0000&datetime=20190514153951&returncode=00&sign=3DB9355AC0106999E9398CBCBDAA3656&attach=
+HTTP状态：
+返回：OK
+

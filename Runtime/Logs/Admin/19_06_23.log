@@ -1,0 +1,605 @@
+[ 2019-06-23T20:03:11+08:00 ] 127.0.0.1 /admin_User_saveUserProduct.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000038s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000515s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000676s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001232s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000250s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000283s ]
+NOTIC: [8] Undefined index: pid E:\phpEnv\www\mqyzf.com\Application\Admin\Controller\UserController.class.php 第 1987 行.
+NOTIC: [8] Undefined index: pid E:\phpEnv\www\mqyzf.com\Application\Admin\Controller\UserController.class.php 第 1987 行.
+NOTIC: [8] Undefined index: status E:\phpEnv\www\mqyzf.com\Application\Admin\Controller\UserController.class.php 第 1984 行.
+NOTIC: [8] Undefined index: pid E:\phpEnv\www\mqyzf.com\Application\Admin\Controller\UserController.class.php 第 1987 行.
+NOTIC: [8] Undefined index: pid E:\phpEnv\www\mqyzf.com\Application\Admin\Controller\UserController.class.php 第 1987 行.
+NOTIC: [8] Undefined index: pid E:\phpEnv\www\mqyzf.com\Application\Admin\Controller\UserController.class.php 第 1987 行.
+NOTIC: [8] Undefined index: pid E:\phpEnv\www\mqyzf.com\Application\Admin\Controller\UserController.class.php 第 1987 行.
+NOTIC: [8] Undefined index: pid E:\phpEnv\www\mqyzf.com\Application\Admin\Controller\UserController.class.php 第 1987 行.
+NOTIC: [8] Undefined index: pid E:\phpEnv\www\mqyzf.com\Application\Admin\Controller\UserController.class.php 第 1987 行.
+NOTIC: [8] Undefined index: pid E:\phpEnv\www\mqyzf.com\Application\Admin\Controller\UserController.class.php 第 1987 行.
+NOTIC: [8] Undefined index: pid E:\phpEnv\www\mqyzf.com\Application\Admin\Controller\UserController.class.php 第 1987 行.
+NOTIC: [8] Undefined index: status E:\phpEnv\www\mqyzf.com\Application\Admin\Controller\UserController.class.php 第 1984 行.
+NOTIC: [8] Undefined index: pid E:\phpEnv\www\mqyzf.com\Application\Admin\Controller\UserController.class.php 第 1987 行.
+NOTIC: [8] Undefined index: status E:\phpEnv\www\mqyzf.com\Application\Admin\Controller\UserController.class.php 第 1984 行.
+NOTIC: [8] Undefined index: pid E:\phpEnv\www\mqyzf.com\Application\Admin\Controller\UserController.class.php 第 1987 行.
+NOTIC: [8] Undefined index: pid E:\phpEnv\www\mqyzf.com\Application\Admin\Controller\UserController.class.php 第 1987 行.
+NOTIC: [8] Undefined index: pid E:\phpEnv\www\mqyzf.com\Application\Admin\Controller\UserController.class.php 第 1987 行.
+NOTIC: [8] Undefined index: pid E:\phpEnv\www\mqyzf.com\Application\Admin\Controller\UserController.class.php 第 1987 行.
+NOTIC: [8] Undefined index: pid E:\phpEnv\www\mqyzf.com\Application\Admin\Controller\UserController.class.php 第 1987 行.
+NOTIC: [8] Undefined index: pid E:\phpEnv\www\mqyzf.com\Application\Admin\Controller\UserController.class.php 第 1987 行.
+NOTIC: [8] Undefined index: pid E:\phpEnv\www\mqyzf.com\Application\Admin\Controller\UserController.class.php 第 1987 行.
+NOTIC: [8] Undefined index: pid E:\phpEnv\www\mqyzf.com\Application\Admin\Controller\UserController.class.php 第 1987 行.
+NOTIC: [8] Undefined index: status E:\phpEnv\www\mqyzf.com\Application\Admin\Controller\UserController.class.php 第 1984 行.
+NOTIC: [8] Undefined index: pid E:\phpEnv\www\mqyzf.com\Application\Admin\Controller\UserController.class.php 第 1987 行.
+NOTIC: [8] Undefined index: pid E:\phpEnv\www\mqyzf.com\Application\Admin\Controller\UserController.class.php 第 1987 行.
+NOTIC: [8] Undefined index: pid E:\phpEnv\www\mqyzf.com\Application\Admin\Controller\UserController.class.php 第 1987 行.
+NOTIC: [8] Undefined index: pid E:\phpEnv\www\mqyzf.com\Application\Admin\Controller\UserController.class.php 第 1987 行.
+NOTIC: [8] Undefined index: pid E:\phpEnv\www\mqyzf.com\Application\Admin\Controller\UserController.class.php 第 1987 行.
+NOTIC: [8] Undefined index: pid E:\phpEnv\www\mqyzf.com\Application\Admin\Controller\UserController.class.php 第 1987 行.
+NOTIC: [8] Undefined index: pid E:\phpEnv\www\mqyzf.com\Application\Admin\Controller\UserController.class.php 第 1987 行.
+NOTIC: [8] Undefined index: pid E:\phpEnv\www\mqyzf.com\Application\Admin\Controller\UserController.class.php 第 1987 行.
+NOTIC: [8] Undefined index: status E:\phpEnv\www\mqyzf.com\Application\Admin\Controller\UserController.class.php 第 1984 行.
+NOTIC: [8] Undefined index: pid E:\phpEnv\www\mqyzf.com\Application\Admin\Controller\UserController.class.php 第 1987 行.
+NOTIC: [8] Undefined index: pid E:\phpEnv\www\mqyzf.com\Application\Admin\Controller\UserController.class.php 第 1987 行.
+NOTIC: [8] Undefined index: pid E:\phpEnv\www\mqyzf.com\Application\Admin\Controller\UserController.class.php 第 1987 行.
+NOTIC: [8] Undefined index: pid E:\phpEnv\www\mqyzf.com\Application\Admin\Controller\UserController.class.php 第 1987 行.
+NOTIC: [8] Undefined index: pid E:\phpEnv\www\mqyzf.com\Application\Admin\Controller\UserController.class.php 第 1987 行.
+NOTIC: [8] Undefined index: pid E:\phpEnv\www\mqyzf.com\Application\Admin\Controller\UserController.class.php 第 1987 行.
+NOTIC: [8] Undefined index: pid E:\phpEnv\www\mqyzf.com\Application\Admin\Controller\UserController.class.php 第 1987 行.
+NOTIC: [8] Undefined index: pid E:\phpEnv\www\mqyzf.com\Application\Admin\Controller\UserController.class.php 第 1987 行.
+NOTIC: [8] Undefined index: status E:\phpEnv\www\mqyzf.com\Application\Admin\Controller\UserController.class.php 第 1984 行.
+NOTIC: [8] Undefined index: pid E:\phpEnv\www\mqyzf.com\Application\Admin\Controller\UserController.class.php 第 1987 行.
+NOTIC: [8] Undefined index: pid E:\phpEnv\www\mqyzf.com\Application\Admin\Controller\UserController.class.php 第 1987 行.
+NOTIC: [8] Undefined index: pid E:\phpEnv\www\mqyzf.com\Application\Admin\Controller\UserController.class.php 第 1987 行.
+NOTIC: [8] Undefined index: pid E:\phpEnv\www\mqyzf.com\Application\Admin\Controller\UserController.class.php 第 1987 行.
+NOTIC: [8] Undefined index: pid E:\phpEnv\www\mqyzf.com\Application\Admin\Controller\UserController.class.php 第 1987 行.
+NOTIC: [8] Undefined index: pid E:\phpEnv\www\mqyzf.com\Application\Admin\Controller\UserController.class.php 第 1987 行.
+NOTIC: [8] Undefined index: pid E:\phpEnv\www\mqyzf.com\Application\Admin\Controller\UserController.class.php 第 1987 行.
+NOTIC: [8] Undefined index: pid E:\phpEnv\www\mqyzf.com\Application\Admin\Controller\UserController.class.php 第 1987 行.
+NOTIC: [8] Undefined index: status E:\phpEnv\www\mqyzf.com\Application\Admin\Controller\UserController.class.php 第 1984 行.
+NOTIC: [8] Undefined index: pid E:\phpEnv\www\mqyzf.com\Application\Admin\Controller\UserController.class.php 第 1987 行.
+NOTIC: [8] Undefined index: pid E:\phpEnv\www\mqyzf.com\Application\Admin\Controller\UserController.class.php 第 1987 行.
+NOTIC: [8] Undefined index: pid E:\phpEnv\www\mqyzf.com\Application\Admin\Controller\UserController.class.php 第 1987 行.
+NOTIC: [8] Undefined index: pid E:\phpEnv\www\mqyzf.com\Application\Admin\Controller\UserController.class.php 第 1987 行.
+NOTIC: [8] Undefined index: pid E:\phpEnv\www\mqyzf.com\Application\Admin\Controller\UserController.class.php 第 1987 行.
+NOTIC: [8] Undefined index: pid E:\phpEnv\www\mqyzf.com\Application\Admin\Controller\UserController.class.php 第 1987 行.
+NOTIC: [8] Undefined index: pid E:\phpEnv\www\mqyzf.com\Application\Admin\Controller\UserController.class.php 第 1987 行.
+NOTIC: [8] Undefined index: pid E:\phpEnv\www\mqyzf.com\Application\Admin\Controller\UserController.class.php 第 1987 行.
+NOTIC: [8] Undefined index: status E:\phpEnv\www\mqyzf.com\Application\Admin\Controller\UserController.class.php 第 1984 行.
+NOTIC: [8] Undefined index: pid E:\phpEnv\www\mqyzf.com\Application\Admin\Controller\UserController.class.php 第 1987 行.
+NOTIC: [8] Undefined index: pid E:\phpEnv\www\mqyzf.com\Application\Admin\Controller\UserController.class.php 第 1987 行.
+NOTIC: [8] Undefined index: pid E:\phpEnv\www\mqyzf.com\Application\Admin\Controller\UserController.class.php 第 1987 行.
+NOTIC: [8] Undefined index: pid E:\phpEnv\www\mqyzf.com\Application\Admin\Controller\UserController.class.php 第 1987 行.
+NOTIC: [8] Undefined index: pid E:\phpEnv\www\mqyzf.com\Application\Admin\Controller\UserController.class.php 第 1987 行.
+NOTIC: [8] Undefined index: pid E:\phpEnv\www\mqyzf.com\Application\Admin\Controller\UserController.class.php 第 1987 行.
+NOTIC: [8] Undefined index: pid E:\phpEnv\www\mqyzf.com\Application\Admin\Controller\UserController.class.php 第 1987 行.
+NOTIC: [8] Undefined index: pid E:\phpEnv\www\mqyzf.com\Application\Admin\Controller\UserController.class.php 第 1987 行.
+NOTIC: [8] Undefined variable: data_update E:\phpEnv\www\mqyzf.com\Application\Admin\Controller\UserController.class.php 第 2000 行.
+
+[ 2019-06-23T20:03:30+08:00 ] 127.0.0.1 /admin_User_index_username_dsdsd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000679s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000792s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001524s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.001008s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.001167s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000098s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000148s ]
+NOTIC: [8] Undefined variable: username E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 47 行.
+NOTIC: [8] Undefined variable: parentid E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 53 行.
+NOTIC: [8] Undefined variable: regdatetime E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 80 行.
+NOTIC: [2] Use of undefined constant status - assumed 'status' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 101 行.
+NOTIC: [8] Undefined index: status E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 101 行.
+NOTIC: [2] Use of undefined constant status - assumed 'status' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 121 行.
+NOTIC: [8] Undefined index: status E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 121 行.
+NOTIC: [2] Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 140 行.
+NOTIC: [2] Use of undefined constant authorized - assumed 'authorized' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 141 行.
+NOTIC: [8] Undefined index: has_yck E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 178 行.
+NOTIC: [2] Use of undefined constant balance - assumed 'balance' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 186 行.
+NOTIC: [2] Use of undefined constant blockedbalance - assumed 'blockedbalance' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 186 行.
+NOTIC: [2] Use of undefined constant complaintsDeposit - assumed 'complaintsDeposit' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 186 行.
+NOTIC: [2] Use of undefined constant status - assumed 'status' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 189 行.
+NOTIC: [8] Undefined index: status E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 189 行.
+NOTIC: [2] Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 196 行.
+NOTIC: [2] Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 199 行.
+NOTIC: [2] Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 201 行.
+NOTIC: [2] Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 203 行.
+NOTIC: [2] Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 205 行.
+NOTIC: [2] Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 209 行.
+NOTIC: [2] Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 212 行.
+NOTIC: [2] Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 215 行.
+NOTIC: [2] Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 218 行.
+NOTIC: [2] Use of undefined constant username - assumed 'username' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 491 行.
+NOTIC: [2] Use of undefined constant parentid - assumed 'parentid' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 491 行.
+NOTIC: [8] Undefined index: parentid E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 491 行.
+NOTIC: [2] Use of undefined constant status - assumed 'status' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 491 行.
+NOTIC: [8] Undefined index: status E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 491 行.
+NOTIC: [2] Use of undefined constant authorized - assumed 'authorized' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 491 行.
+NOTIC: [8] Undefined index: authorized E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 491 行.
+NOTIC: [2] Use of undefined constant groupid - assumed 'groupid' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 491 行.
+NOTIC: [8] Undefined index: groupid E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 491 行.
+NOTIC: [2] Use of undefined constant regdatetime - assumed 'regdatetime' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 491 行.
+NOTIC: [8] Undefined index: regdatetime E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\65e605872ed5d34210f5b33beb13f5a3.php 第 491 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022987s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023126s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000858s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000705s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001657s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001090s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001148s ]
+
+[ 2019-06-23T20:03:31+08:00 ] 127.0.0.1 /admin_User_editUserProduct_uid_96.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000027s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000934s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001047s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002191s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000757s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000825s ]
+NOTIC: [8] Undefined offset: 1 E:\phpEnv\www\mqyzf.com\Application\Admin\Controller\UserController.class.php 第 1959 行.
+NOTIC: [8] Undefined offset: 1 E:\phpEnv\www\mqyzf.com\Application\Admin\Controller\UserController.class.php 第 1959 行.
+NOTIC: [8] Undefined offset: 1 E:\phpEnv\www\mqyzf.com\Application\Admin\Controller\UserController.class.php 第 1959 行.
+NOTIC: [8] Undefined offset: 1 E:\phpEnv\www\mqyzf.com\Application\Admin\Controller\UserController.class.php 第 1959 行.
+NOTIC: [8] Undefined offset: 1 E:\phpEnv\www\mqyzf.com\Application\Admin\Controller\UserController.class.php 第 1959 行.
+NOTIC: [8] Undefined offset: 1 E:\phpEnv\www\mqyzf.com\Application\Admin\Controller\UserController.class.php 第 1959 行.
+NOTIC: [8] Undefined offset: 1 E:\phpEnv\www\mqyzf.com\Application\Admin\Controller\UserController.class.php 第 1959 行.
+NOTIC: [8] Undefined offset: 1 E:\phpEnv\www\mqyzf.com\Application\Admin\Controller\UserController.class.php 第 1959 行.
+NOTIC: [8] Undefined offset: 1 E:\phpEnv\www\mqyzf.com\Application\Admin\Controller\UserController.class.php 第 1959 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000037s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000064s ]
+NOTIC: [2] Use of undefined constant polling - assumed 'polling' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 49 行.
+NOTIC: [2] Use of undefined constant polling - assumed 'polling' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 52 行.
+NOTIC: [2] Use of undefined constant channel - assumed 'channel' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant channel - assumed 'channel' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant pid - assumed 'pid' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 246 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 246 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 73 行.
+NOTIC: [2] Use of undefined constant weight - assumed 'weight' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [8] Undefined offset: 246 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [2] Use of undefined constant pid - assumed 'pid' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 250 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 250 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 73 行.
+NOTIC: [2] Use of undefined constant weight - assumed 'weight' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [8] Undefined offset: 250 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [2] Use of undefined constant polling - assumed 'polling' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 49 行.
+NOTIC: [2] Use of undefined constant polling - assumed 'polling' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 52 行.
+NOTIC: [2] Use of undefined constant channel - assumed 'channel' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant channel - assumed 'channel' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant channel - assumed 'channel' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant channel - assumed 'channel' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant channel - assumed 'channel' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant channel - assumed 'channel' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant channel - assumed 'channel' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant channel - assumed 'channel' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant pid - assumed 'pid' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 215 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 215 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 73 行.
+NOTIC: [2] Use of undefined constant weight - assumed 'weight' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [8] Undefined offset: 215 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [2] Use of undefined constant pid - assumed 'pid' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 238 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 238 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 73 行.
+NOTIC: [2] Use of undefined constant weight - assumed 'weight' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [8] Undefined offset: 238 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [2] Use of undefined constant pid - assumed 'pid' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 239 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 239 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 73 行.
+NOTIC: [2] Use of undefined constant weight - assumed 'weight' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [8] Undefined offset: 239 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [2] Use of undefined constant pid - assumed 'pid' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 242 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 242 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 73 行.
+NOTIC: [2] Use of undefined constant weight - assumed 'weight' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [8] Undefined offset: 242 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [2] Use of undefined constant pid - assumed 'pid' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 244 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 244 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 73 行.
+NOTIC: [2] Use of undefined constant weight - assumed 'weight' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [8] Undefined offset: 244 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [2] Use of undefined constant pid - assumed 'pid' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 245 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 245 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 73 行.
+NOTIC: [2] Use of undefined constant weight - assumed 'weight' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [8] Undefined offset: 245 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [2] Use of undefined constant pid - assumed 'pid' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 247 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 247 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 73 行.
+NOTIC: [2] Use of undefined constant weight - assumed 'weight' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [8] Undefined offset: 247 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [2] Use of undefined constant pid - assumed 'pid' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 249 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 249 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 73 行.
+NOTIC: [2] Use of undefined constant weight - assumed 'weight' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [8] Undefined offset: 249 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [2] Use of undefined constant polling - assumed 'polling' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 49 行.
+NOTIC: [2] Use of undefined constant polling - assumed 'polling' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 52 行.
+NOTIC: [2] Use of undefined constant channel - assumed 'channel' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant pid - assumed 'pid' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 233 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 233 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 73 行.
+NOTIC: [2] Use of undefined constant weight - assumed 'weight' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [8] Undefined offset: 233 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [2] Use of undefined constant polling - assumed 'polling' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 49 行.
+NOTIC: [2] Use of undefined constant polling - assumed 'polling' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 52 行.
+NOTIC: [2] Use of undefined constant channel - assumed 'channel' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant channel - assumed 'channel' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant channel - assumed 'channel' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant channel - assumed 'channel' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant channel - assumed 'channel' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant channel - assumed 'channel' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant channel - assumed 'channel' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant channel - assumed 'channel' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant pid - assumed 'pid' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 215 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 215 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 73 行.
+NOTIC: [2] Use of undefined constant weight - assumed 'weight' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [8] Undefined offset: 215 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [2] Use of undefined constant pid - assumed 'pid' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 238 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 238 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 73 行.
+NOTIC: [2] Use of undefined constant weight - assumed 'weight' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [8] Undefined offset: 238 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [2] Use of undefined constant pid - assumed 'pid' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 239 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 239 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 73 行.
+NOTIC: [2] Use of undefined constant weight - assumed 'weight' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [8] Undefined offset: 239 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [2] Use of undefined constant pid - assumed 'pid' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 242 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 242 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 73 行.
+NOTIC: [2] Use of undefined constant weight - assumed 'weight' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [8] Undefined offset: 242 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [2] Use of undefined constant pid - assumed 'pid' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 244 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 244 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 73 行.
+NOTIC: [2] Use of undefined constant weight - assumed 'weight' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [8] Undefined offset: 244 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [2] Use of undefined constant pid - assumed 'pid' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 245 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 245 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 73 行.
+NOTIC: [2] Use of undefined constant weight - assumed 'weight' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [8] Undefined offset: 245 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [2] Use of undefined constant pid - assumed 'pid' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 247 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 247 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 73 行.
+NOTIC: [2] Use of undefined constant weight - assumed 'weight' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [8] Undefined offset: 247 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [2] Use of undefined constant pid - assumed 'pid' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 249 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 249 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 73 行.
+NOTIC: [2] Use of undefined constant weight - assumed 'weight' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [8] Undefined offset: 249 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [2] Use of undefined constant polling - assumed 'polling' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 49 行.
+NOTIC: [2] Use of undefined constant polling - assumed 'polling' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 52 行.
+NOTIC: [2] Use of undefined constant channel - assumed 'channel' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant channel - assumed 'channel' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant channel - assumed 'channel' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant channel - assumed 'channel' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant channel - assumed 'channel' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant channel - assumed 'channel' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant channel - assumed 'channel' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant channel - assumed 'channel' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant pid - assumed 'pid' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 215 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 215 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 73 行.
+NOTIC: [2] Use of undefined constant weight - assumed 'weight' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [8] Undefined offset: 215 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [2] Use of undefined constant pid - assumed 'pid' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 238 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 238 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 73 行.
+NOTIC: [2] Use of undefined constant weight - assumed 'weight' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [8] Undefined offset: 238 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [2] Use of undefined constant pid - assumed 'pid' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 239 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 239 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 73 行.
+NOTIC: [2] Use of undefined constant weight - assumed 'weight' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [8] Undefined offset: 239 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [2] Use of undefined constant pid - assumed 'pid' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 242 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 242 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 73 行.
+NOTIC: [2] Use of undefined constant weight - assumed 'weight' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [8] Undefined offset: 242 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [2] Use of undefined constant pid - assumed 'pid' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 244 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 244 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 73 行.
+NOTIC: [2] Use of undefined constant weight - assumed 'weight' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [8] Undefined offset: 244 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [2] Use of undefined constant pid - assumed 'pid' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 245 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 245 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 73 行.
+NOTIC: [2] Use of undefined constant weight - assumed 'weight' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [8] Undefined offset: 245 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [2] Use of undefined constant pid - assumed 'pid' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 247 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 247 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 73 行.
+NOTIC: [2] Use of undefined constant weight - assumed 'weight' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [8] Undefined offset: 247 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [2] Use of undefined constant pid - assumed 'pid' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 249 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 249 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 73 行.
+NOTIC: [2] Use of undefined constant weight - assumed 'weight' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [8] Undefined offset: 249 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [2] Use of undefined constant polling - assumed 'polling' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 49 行.
+NOTIC: [2] Use of undefined constant polling - assumed 'polling' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 52 行.
+NOTIC: [2] Use of undefined constant channel - assumed 'channel' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant channel - assumed 'channel' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant channel - assumed 'channel' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant channel - assumed 'channel' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant channel - assumed 'channel' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant channel - assumed 'channel' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant channel - assumed 'channel' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant channel - assumed 'channel' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant pid - assumed 'pid' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 215 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 215 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 73 行.
+NOTIC: [2] Use of undefined constant weight - assumed 'weight' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [8] Undefined offset: 215 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [2] Use of undefined constant pid - assumed 'pid' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 238 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 238 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 73 行.
+NOTIC: [2] Use of undefined constant weight - assumed 'weight' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [8] Undefined offset: 238 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [2] Use of undefined constant pid - assumed 'pid' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 239 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 239 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 73 行.
+NOTIC: [2] Use of undefined constant weight - assumed 'weight' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [8] Undefined offset: 239 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [2] Use of undefined constant pid - assumed 'pid' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 242 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 242 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 73 行.
+NOTIC: [2] Use of undefined constant weight - assumed 'weight' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [8] Undefined offset: 242 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [2] Use of undefined constant pid - assumed 'pid' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 244 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 244 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 73 行.
+NOTIC: [2] Use of undefined constant weight - assumed 'weight' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [8] Undefined offset: 244 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [2] Use of undefined constant pid - assumed 'pid' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 245 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 245 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 73 行.
+NOTIC: [2] Use of undefined constant weight - assumed 'weight' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [8] Undefined offset: 245 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [2] Use of undefined constant pid - assumed 'pid' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 247 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 247 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 73 行.
+NOTIC: [2] Use of undefined constant weight - assumed 'weight' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [8] Undefined offset: 247 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [2] Use of undefined constant pid - assumed 'pid' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 249 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 249 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 73 行.
+NOTIC: [2] Use of undefined constant weight - assumed 'weight' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [8] Undefined offset: 249 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [2] Use of undefined constant polling - assumed 'polling' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 49 行.
+NOTIC: [2] Use of undefined constant polling - assumed 'polling' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 52 行.
+NOTIC: [2] Use of undefined constant channel - assumed 'channel' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant channel - assumed 'channel' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant channel - assumed 'channel' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant channel - assumed 'channel' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant channel - assumed 'channel' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant channel - assumed 'channel' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant channel - assumed 'channel' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant channel - assumed 'channel' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant pid - assumed 'pid' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 215 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 215 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 73 行.
+NOTIC: [2] Use of undefined constant weight - assumed 'weight' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [8] Undefined offset: 215 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [2] Use of undefined constant pid - assumed 'pid' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 238 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 238 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 73 行.
+NOTIC: [2] Use of undefined constant weight - assumed 'weight' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [8] Undefined offset: 238 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [2] Use of undefined constant pid - assumed 'pid' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 239 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 239 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 73 行.
+NOTIC: [2] Use of undefined constant weight - assumed 'weight' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [8] Undefined offset: 239 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [2] Use of undefined constant pid - assumed 'pid' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 242 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 242 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 73 行.
+NOTIC: [2] Use of undefined constant weight - assumed 'weight' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [8] Undefined offset: 242 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [2] Use of undefined constant pid - assumed 'pid' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 244 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 244 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 73 行.
+NOTIC: [2] Use of undefined constant weight - assumed 'weight' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [8] Undefined offset: 244 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [2] Use of undefined constant pid - assumed 'pid' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 245 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 245 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 73 行.
+NOTIC: [2] Use of undefined constant weight - assumed 'weight' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [8] Undefined offset: 245 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [2] Use of undefined constant pid - assumed 'pid' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 247 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 247 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 73 行.
+NOTIC: [2] Use of undefined constant weight - assumed 'weight' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [8] Undefined offset: 247 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [2] Use of undefined constant pid - assumed 'pid' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 249 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 249 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 73 行.
+NOTIC: [2] Use of undefined constant weight - assumed 'weight' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [8] Undefined offset: 249 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [2] Use of undefined constant polling - assumed 'polling' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 49 行.
+NOTIC: [2] Use of undefined constant polling - assumed 'polling' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 52 行.
+NOTIC: [2] Use of undefined constant channel - assumed 'channel' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant channel - assumed 'channel' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant channel - assumed 'channel' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant channel - assumed 'channel' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant channel - assumed 'channel' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant channel - assumed 'channel' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant channel - assumed 'channel' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant channel - assumed 'channel' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant pid - assumed 'pid' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 215 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 215 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 73 行.
+NOTIC: [2] Use of undefined constant weight - assumed 'weight' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [8] Undefined offset: 215 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [2] Use of undefined constant pid - assumed 'pid' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 238 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 238 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 73 行.
+NOTIC: [2] Use of undefined constant weight - assumed 'weight' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [8] Undefined offset: 238 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [2] Use of undefined constant pid - assumed 'pid' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 239 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 239 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 73 行.
+NOTIC: [2] Use of undefined constant weight - assumed 'weight' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [8] Undefined offset: 239 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [2] Use of undefined constant pid - assumed 'pid' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 242 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 242 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 73 行.
+NOTIC: [2] Use of undefined constant weight - assumed 'weight' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [8] Undefined offset: 242 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [2] Use of undefined constant pid - assumed 'pid' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 244 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 244 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 73 行.
+NOTIC: [2] Use of undefined constant weight - assumed 'weight' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [8] Undefined offset: 244 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [2] Use of undefined constant pid - assumed 'pid' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 245 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 245 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 73 行.
+NOTIC: [2] Use of undefined constant weight - assumed 'weight' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [8] Undefined offset: 245 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [2] Use of undefined constant pid - assumed 'pid' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 247 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 247 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 73 行.
+NOTIC: [2] Use of undefined constant weight - assumed 'weight' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [8] Undefined offset: 247 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [2] Use of undefined constant pid - assumed 'pid' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 249 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 249 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 73 行.
+NOTIC: [2] Use of undefined constant weight - assumed 'weight' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [8] Undefined offset: 249 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [2] Use of undefined constant polling - assumed 'polling' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 49 行.
+NOTIC: [2] Use of undefined constant polling - assumed 'polling' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 52 行.
+NOTIC: [2] Use of undefined constant channel - assumed 'channel' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant channel - assumed 'channel' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant channel - assumed 'channel' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant channel - assumed 'channel' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant channel - assumed 'channel' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant channel - assumed 'channel' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant channel - assumed 'channel' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant channel - assumed 'channel' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 57 行.
+NOTIC: [2] Use of undefined constant pid - assumed 'pid' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 215 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 215 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 73 行.
+NOTIC: [2] Use of undefined constant weight - assumed 'weight' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [8] Undefined offset: 215 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [2] Use of undefined constant pid - assumed 'pid' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 238 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 238 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 73 行.
+NOTIC: [2] Use of undefined constant weight - assumed 'weight' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [8] Undefined offset: 238 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [2] Use of undefined constant pid - assumed 'pid' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 239 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 239 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 73 行.
+NOTIC: [2] Use of undefined constant weight - assumed 'weight' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [8] Undefined offset: 239 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [2] Use of undefined constant pid - assumed 'pid' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 242 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 242 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 73 行.
+NOTIC: [2] Use of undefined constant weight - assumed 'weight' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [8] Undefined offset: 242 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [2] Use of undefined constant pid - assumed 'pid' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 244 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 244 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 73 行.
+NOTIC: [2] Use of undefined constant weight - assumed 'weight' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [8] Undefined offset: 244 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [2] Use of undefined constant pid - assumed 'pid' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 245 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 245 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 73 行.
+NOTIC: [2] Use of undefined constant weight - assumed 'weight' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [8] Undefined offset: 245 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [2] Use of undefined constant pid - assumed 'pid' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 247 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 247 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 73 行.
+NOTIC: [2] Use of undefined constant weight - assumed 'weight' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [8] Undefined offset: 247 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [2] Use of undefined constant pid - assumed 'pid' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 249 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 72 行.
+NOTIC: [8] Undefined offset: 249 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 73 行.
+NOTIC: [2] Use of undefined constant weight - assumed 'weight' (this will throw an Error in a future version of PHP) E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+NOTIC: [8] Undefined offset: 249 E:\phpEnv\www\mqyzf.com\Runtime\Cache\Admin\05fd14b2839bba43c50a68dfb1280e4e.php 第 77 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015846s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015891s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000885s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.003431s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004389s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001034s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001079s ]
+

@@ -1,0 +1,56 @@
+【2019-05-11 16:55:09】
+订单号：20190511165455102559
+通知地址：http://www.33wy30.cn/Pay_Test_notify.html
+通知报文：memberid=10103&orderid=CS20190511165450859621&transaction_id=20190511165455102559&amount=2.0000&datetime=20190511165508&returncode=00&sign=564BC2AA706999FB0D99C461863161E8&attach=
+HTTP状态：
+返回：ok
+
+【2019-05-11 16:57:06】
+订单号：20190511165651519851
+通知地址：http://www.33wy30.cn/Pay_Test_notify.html
+通知报文：memberid=10103&orderid=CS20190511165646986722&transaction_id=20190511165651519851&amount=1.0000&datetime=20190511165706&returncode=00&sign=42A8F05FE8F67521BA4C8D6FF664BAAF&attach=
+HTTP状态：
+返回：ok
+
+【2019-05-11 19:21:33】
+订单号：20190511192108524848
+通知地址：http://www.33wy30.cn/Pay_Test_notify.html
+通知报文：memberid=10103&orderid=CS20190511192101222421&transaction_id=20190511192108524848&amount=2.0000&datetime=20190511192133&returncode=00&sign=6A99FBF7FE9DA2C5F40FAE49F8126A8F&attach=
+HTTP状态：
+返回：ok
+
+【2019-05-11 21:45:10】
+订单号：20190511214439555648
+通知地址：http://www.33wy30.cn/Pay_Test_notify.html
+通知报文：memberid=10102&orderid=CS20190511214434472439&transaction_id=20190511214439555648&amount=1.0000&datetime=20190511214510&returncode=00&sign=76D09BFD1A0FE1CF59E534EF70F7C1B4&attach=
+HTTP状态：
+返回：ok
+
+【2019-05-11 22:56:21】
+订单号：20190511225427515097
+通知地址：http://www.33wy30.cn/Pay_Test_notify.html
+通知报文：memberid=10103&orderid=CS20190511225421317128&transaction_id=20190511225427515097&amount=1.0000&datetime=20190511225621&returncode=00&sign=F55C5913B2C2C1EE8DE14C80AB13F235&attach=
+HTTP状态：
+返回：ok
+
+【2019-05-11 22:58:35】
+订单号：20190511225822101485
+通知地址：http://www.33wy30.cn/Pay_Test_notify.html
+通知报文：memberid=10103&orderid=CS20190511225815912288&transaction_id=20190511225822101485&amount=1.0000&datetime=20190511225835&returncode=00&sign=B7D1A115DC3802685586257DCDF22032&attach=
+HTTP状态：
+返回：ok
+
+【2019-05-11 23:23:51】
+订单号：20190511232330505397
+通知地址：http://www.33wy30.cn/Pay_Test_notify.html
+通知报文：memberid=10102&orderid=CS20190511232325634034&transaction_id=20190511232330505397&amount=1.0000&datetime=20190511232351&returncode=00&sign=D28613199451813C0D89AB523E961F04&attach=
+HTTP状态：
+返回：ok
+
+【2019-05-11 23:38:20】
+订单号：20190511233759555310
+通知地址：http://www.33wy30.cn/Pay_Test_notify.html
+通知报文：memberid=10102&orderid=CS20190511233754645490&transaction_id=20190511233759555310&amount=0.1000&datetime=20190511233820&returncode=00&sign=BBD4CE8A52AAE0909861E566E0221E09&attach=
+HTTP状态：
+返回：ok
+
